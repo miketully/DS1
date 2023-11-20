@@ -1,0 +1,29 @@
+
+
+/** Styles **/
+
+
+* {
+    background-color:springgreen;
+}
+
+img {
+    max-width:500px;
+    min-width: 200px;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    color:white;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    font-size: 28px;
+}
+
+p{
+    font-family:'Courier New', Courier, monospace;
+}
