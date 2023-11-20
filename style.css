@@ -4,7 +4,7 @@
 
 
 * {
-    background-color:springgreen;
+    background-color:orchid;
 }
 
 img {
@@ -13,13 +13,13 @@ img {
 }
 
 h1 {
-    font-family: Arial, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     color:white;
     font-size: 40px;
 }
 
 h2 {
-    font-family: Arial, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     color: darkblue;
     font-size: 28px;
 }
